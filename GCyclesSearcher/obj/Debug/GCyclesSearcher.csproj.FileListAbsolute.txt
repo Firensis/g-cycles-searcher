@@ -1,0 +1,450 @@
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\acyclic.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\ann.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\bcomps.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\ccomps.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\cdt.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\cgraph.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\circo.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\config.h
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\diffimg.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\dijkstra.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\dot.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\dotty.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\edgepaint.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\exparse.h
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\fc-cache.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\fc-cat.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\fc-list.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\fc-match.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\fdp.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\fontconfig.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\fontconfig_fix.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\freetype6.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gc.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\getopt.h
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\glut32.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gml2gv.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\graphml2gv.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gv2gml.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvc.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvcolor.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvedit.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\GVedit.html
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvgen.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvmap.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvpack.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvplugin_core.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvplugin_dot_layout.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvplugin_gd.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvplugin_gdiplus.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvplugin_neato_layout.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvplugin_pango.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gvpr.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gxl2gv.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\iconv.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\intl.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\jpeg62.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\lefty.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libatk-1.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libcairo-2.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libexpat-1.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libexpat.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libfontconfig-1.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libfreetype-6.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgdk-win32-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgio-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libglade-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libglib-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgmodule-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgobject-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgthread-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgtk-win32-2.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libltdl-3.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libpango-1.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libpangocairo-1.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libpangoft2-1.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libpangowin32-1.0-0.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libpng12.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libpng14-14.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\librsvg-2-2.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\libxml2.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\lneato.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\ltdl.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\mingle.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\mm2gv.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\neato.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\nop.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\osage.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\patchwork.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\Pathplan.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\props.txt
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\prune.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\QtCore4.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\QtGui4.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\sccmap.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\sfdp.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\smyrna.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\tred.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\twopi.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\unflatten.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\vmalloc.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\zlib1.dll
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\config6
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\Graphviz.ini
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\gts.lib
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\external\Settings.ini
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\GCyclesSearcher.exe.config
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\GCyclesSearcher.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\bin\Debug\GCyclesSearcher.pdb
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.Authorization.resources
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.GraphCreator.resources
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.CycleSearch.resources
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.Menu.resources
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.Properties.Resources.resources
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.Registration.resources
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.StepsVisualizer.resources
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.csproj.GenerateResource.cache
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.csproj.CoreCompileInputs.cache
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.exe
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.pdb
+F:\Программирование\VS projects\CourseWork\CourseWork\obj\Debug\GCyclesSearcher.csprojAssemblyReference.cache
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csprojAssemblyReference.cache
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Properties.Resources.resources
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csproj.GenerateResource.cache
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csproj.CoreCompileInputs.cache
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.pdb
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\acyclic.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ann.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\bcomps.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ccomps.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\cdt.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\cgraph.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\circo.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\config.h
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\diffimg.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dijkstra.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dot.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dotty.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\edgepaint.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\exparse.h
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-cache.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-cat.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-list.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-match.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fdp.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fontconfig.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fontconfig_fix.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\freetype6.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gc.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\getopt.h
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\glut32.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gml2gv.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\graphml2gv.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gv2gml.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvc.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvcolor.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvedit.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\GVedit.html
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvgen.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvmap.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvpack.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_core.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_dot_layout.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_gd.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_gdiplus.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_neato_layout.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_pango.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvpr.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gxl2gv.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\iconv.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\intl.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\jpeg62.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\lefty.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libatk-1.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libcairo-2.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libexpat-1.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libexpat.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libfontconfig-1.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libfreetype-6.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdk-win32-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgio-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libglade-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libglib-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgmodule-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgobject-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgthread-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgtk-win32-2.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libltdl-3.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpango-1.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangocairo-1.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangoft2-1.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangowin32-1.0-0.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpng12.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpng14-14.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\librsvg-2-2.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libxml2.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\lneato.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ltdl.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\mingle.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\mm2gv.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\neato.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\nop.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\osage.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\patchwork.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Pathplan.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\props.txt
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\prune.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\QtCore4.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\QtGui4.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\sccmap.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\sfdp.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\smyrna.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\tred.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\twopi.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\unflatten.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\vmalloc.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\zlib1.dll
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\config6
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Graphviz.ini
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gts.lib
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Settings.ini
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.exe.config
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.exe
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.pdb
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.CreateGraphDialog.resources
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.GraphCreator.resources
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\acyclic.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ann.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\bcomps.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ccomps.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\cdt.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\cgraph.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\circo.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\config.h
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\diffimg.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dijkstra.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dot.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dotty.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\edgepaint.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\exparse.h
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-cache.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-cat.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-list.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-match.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fdp.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fontconfig.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fontconfig_fix.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\freetype6.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gc.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\getopt.h
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\glut32.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gml2gv.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\graphml2gv.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gv2gml.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvc.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvcolor.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvedit.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\GVedit.html
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvgen.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvmap.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvpack.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_core.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_dot_layout.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_gd.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_gdiplus.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_neato_layout.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_pango.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvpr.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gxl2gv.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\iconv.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\intl.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\jpeg62.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\lefty.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libatk-1.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libcairo-2.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libexpat-1.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libexpat.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libfontconfig-1.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libfreetype-6.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdk-win32-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgio-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libglade-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libglib-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgmodule-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgobject-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgthread-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgtk-win32-2.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libltdl-3.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpango-1.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangocairo-1.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangoft2-1.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangowin32-1.0-0.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpng12.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpng14-14.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\librsvg-2-2.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libxml2.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\lneato.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ltdl.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\mingle.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\mm2gv.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\neato.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\nop.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\osage.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\patchwork.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Pathplan.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\props.txt
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\prune.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\QtCore4.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\QtGui4.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\sccmap.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\sfdp.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\smyrna.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\tred.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\twopi.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\unflatten.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\vmalloc.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\zlib1.dll
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\config6
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Graphviz.ini
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gts.lib
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Settings.ini
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.exe.config
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.pdb
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csprojAssemblyReference.cache
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.CreateGraphDialog.resources
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.GraphCreator.resources
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Properties.Resources.resources
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csproj.GenerateResource.cache
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csproj.CoreCompileInputs.cache
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.exe
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.pdb
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\acyclic.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ann.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\bcomps.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ccomps.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\cdt.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\cgraph.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\circo.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\config.h
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\diffimg.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dijkstra.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dot.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\dotty.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\edgepaint.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\exparse.h
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-cache.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-cat.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-list.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fc-match.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fdp.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fontconfig.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\fontconfig_fix.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\freetype6.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gc.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\getopt.h
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\glut32.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gml2gv.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\graphml2gv.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gv2gml.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvc.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvcolor.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvedit.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\GVedit.html
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvgen.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvmap.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvpack.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_core.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_dot_layout.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_gd.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_gdiplus.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_neato_layout.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvplugin_pango.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gvpr.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gxl2gv.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\iconv.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\intl.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\jpeg62.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\lefty.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libatk-1.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libcairo-2.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libexpat-1.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libexpat.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libfontconfig-1.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libfreetype-6.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdk-win32-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgio-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libglade-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libglib-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgmodule-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgobject-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgthread-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgtk-win32-2.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libltdl-3.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpango-1.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangocairo-1.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangoft2-1.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpangowin32-1.0-0.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpng12.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libpng14-14.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\librsvg-2-2.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\libxml2.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\lneato.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\ltdl.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\mingle.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\mm2gv.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\neato.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\nop.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\osage.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\patchwork.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Pathplan.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\props.txt
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\prune.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\QtCore4.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\QtGui4.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\sccmap.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\sfdp.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\smyrna.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\tred.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\twopi.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\unflatten.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\vmalloc.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\zlib1.dll
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\config6
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Graphviz.ini
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\gts.lib
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\external\Settings.ini
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.exe.config
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\bin\Debug\GCyclesSearcher.pdb
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csprojAssemblyReference.cache
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.CreateGraphDialog.resources
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.GraphCreator.resources
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Properties.Resources.resources
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csproj.GenerateResource.cache
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.csproj.CoreCompileInputs.cache
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.exe
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.pdb
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.CyclesSearch.resources
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.StepsVisualizer.resources
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.CyclesSearch.resources
+E:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.StepsVisualizer.resources
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.Authorization.resources
+F:\Программирование\VS projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.Menu.resources
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.Authorization.resources
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.CyclesSearch.resources
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.Menu.resources
+I:\Projects\GCyclesSearcher 2.0\GCyclesSearcher\obj\Debug\GCyclesSearcher.Forms.StepsVisualizer.resources
